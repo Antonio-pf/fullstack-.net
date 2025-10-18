@@ -1,0 +1,11 @@
+/Users/tony/dev/Fina/Fina.Core/bin/Debug/net9.0/Fina.Core.deps.json
+/Users/tony/dev/Fina/Fina.Core/bin/Debug/net9.0/Fina.Core.dll
+/Users/tony/dev/Fina/Fina.Core/bin/Debug/net9.0/Fina.Core.pdb
+/Users/tony/dev/Fina/Fina.Core/obj/Debug/net9.0/Fina.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tony/dev/Fina/Fina.Core/obj/Debug/net9.0/Fina.Core.AssemblyInfoInputs.cache
+/Users/tony/dev/Fina/Fina.Core/obj/Debug/net9.0/Fina.Core.AssemblyInfo.cs
+/Users/tony/dev/Fina/Fina.Core/obj/Debug/net9.0/Fina.Core.csproj.CoreCompileInputs.cache
+/Users/tony/dev/Fina/Fina.Core/obj/Debug/net9.0/Fina.Core.dll
+/Users/tony/dev/Fina/Fina.Core/obj/Debug/net9.0/refint/Fina.Core.dll
+/Users/tony/dev/Fina/Fina.Core/obj/Debug/net9.0/Fina.Core.pdb
+/Users/tony/dev/Fina/Fina.Core/obj/Debug/net9.0/ref/Fina.Core.dll
